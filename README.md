@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Biswajit_rout&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajit_rout&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=routb68&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=routb68&theme=gotham&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
