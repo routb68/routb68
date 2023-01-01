@@ -1,4 +1,14 @@
-## Hi there 👋 I am Biswajit Rout
+## Hi there 👋 I am Biswajit Rout currently Master's student at IIT Madras
+
+<p align="left">
+  <a href="https://leetcode.com/Biswajit_rout/">
+    <img src="https://cp-logo.vercel.app/leetcode/Biswajit_rout" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/Roshack.me">
+    <img src="https://raw.githubusercontent.com/Roshack/cf-stats/main/output/rating.svg" alt="codeforce rating" />
+  </a>
+
+</p>
 
 <!-- <p align="center">
   <a href="https://leetcode.com/Biswajit_rout/">
