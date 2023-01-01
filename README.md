@@ -4,7 +4,7 @@
   <a href="https://leetcode.com/Biswajit_rout/">
     <img src="https://cp-logo.vercel.app/leetcode/Biswajit_rout" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/Roshack.me">
+  <a href="[https://codeforces.com/profile/Roshack.me](https://codeforces.com/profile/Roshack)">
     <img src="https://raw.githubusercontent.com/Roshack/cf-stats/main/output/rating.svg" alt="codeforce rating" />
   </a>
 
