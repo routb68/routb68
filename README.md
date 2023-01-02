@@ -10,7 +10,7 @@
 
 </p>
 
-<!-- <p align="center">
+< <p align="center">
   <a href="https://leetcode.com/Biswajit_rout/">
     <img src="https://cp-logo.vercel.app/leetcode/Biswajit_rout" alt="Leetcode rating" />
   </a>
