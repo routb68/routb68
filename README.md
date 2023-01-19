@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Biswajit Rout currently Master's student at IIT Madras
 
 <p align="left">
-  <a href="https://leetcode.com/Biswajit_rout/">
+  <a href="https://leetcode.com/biswajitrout/">
     <img src="https://cp-logo.vercel.app/leetcode/Biswajit_rout" alt="Leet code rating" />
   </a>
   <a href="https://codeforces.com/profile/Roshack">
@@ -11,8 +11,8 @@
 </p>
 
 < <p align="center">
-  <a href="https://leetcode.com/Biswajit_rout/">
-    <img src="https://cp-logo.vercel.app/leetcode/Biswajit_rout" alt="Leetcode rating" />
+  <a href="https://leetcode.com/biswajitrout/">
+    <img src="https://cp-logo.vercel.app/leetcode/biswajitrout" alt="Leetcode rating" />
   </a>
 </p> >
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 #### 📊 Algorithmic Problem Solving
 
 <p align="center">
-<img height="320em" width="800em" src="https://leetcard.jacoblin.cool/Biswajit_rout?theme=dark&font=Karma&ext=contest"/>
+<img height="320em" width="800em" src="https://leetcard.jacoblin.cool/biswajitrout?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 <b>⚡ Github Stats</b>
